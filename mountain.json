@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount1.webp",
+      "description": "A beautiful view of a mountain with a serene background."
+    },
+    {
+      "id": 2,
+      "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount2.webp",
+      "description": "Snow-covered peaks glowing under the sunlight."
+    },
+    {
+      "id": 3,
+      "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount3.webp",
+      "description": "A majestic mountain surrounded by lush greenery."
+    },
+    {
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount4.webp",
+      "description": "A calm lake reflecting the image of towering mountains."
+    },
+    {
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount5.webp",
+      "description": "A rugged mountain range with dramatic cloud formations."
+    }
+  ]
+}
