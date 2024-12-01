@@ -1,5 +1,4 @@
-{
-  "images": [
+[
     {
       "id": 1,
       "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount1.webp",
@@ -25,5 +24,4 @@
       "url": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/mount5.webp",
       "description": "A rugged mountain range with dramatic cloud formations."
     }
-  ]
-}
+]
