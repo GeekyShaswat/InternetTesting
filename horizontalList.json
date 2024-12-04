@@ -1,0 +1,13 @@
+[
+	{ "name": "Food", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/food.png" }
+	{ "name": "Clothes", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/clothes.png" },
+	{ "name": "Furniture", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/furniture.png" },
+	{ "name": "Gym Equipment", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/gym.png" },
+	{ "name": "Electronics", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/electronics.png" },
+	{ "name": "Shoes", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/shoes.png" },
+	{ "name": "Headphones", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/headphones.png" },
+	{ "name": "SmartPhones", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/phones.png" },
+	{ "name": "Laptops", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/laptops.png" },
+	{ "name": "Sports", "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/sports.png" }
+]
+
