@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Furniture",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/furniture.jpg"
+  },
+  {
+    "name": "Gym Equipment",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/gymEquipment.png"
+  },
+  {
+    "name": "Electronics",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/electronics.png"
+  },
+  {
+    "name": "Shoes",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/shoes.png"
+  },
+  {
+    "name": "Headphones",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/headphones.png"
+  },
+  {
+    "name": "SmartPhones",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/phones.png"
+  },
+  {
+    "name": "Laptops",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/laptops.jpg"
+  },
+  {
+    "name": "Camera",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/camera.jpg"
+  },
+  {
+    "name": "Hair Dryer",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/hairDryer.webp"
+  },
+  {
+    "name": "Football",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/football.jpg"
+  },
+  {
+    "name": "Racquet",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/racquet.webp"
+  },
+  {
+    "name": "T-Shirt",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/tshirt.webp"
+  },
+  {
+    "name": "Bottle",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/bottle.jpg"
+  },
+  {
+    "name": "Carry Bag",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/carrybag.jpg"
+  },
+  {
+    "name": "Smart Watch",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/smartwatch.jpg"
+  },
+  {
+    "name": "Knife",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/knife.jpg"
+  },
+  {
+    "name": "Stationary",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/stationary.png"
+  },
+  {
+    "name": "Computer",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/computer.jpg"
+  },
+  {
+    "name": "TV",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/tv.png"
+  },
+  {
+    "name": "Package Food",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/packegefood.jpg"
+  },
+  {
+    "name": "Beverage",
+    "image": "https://raw.githubusercontent.com/GeekyShaswat/InternetTesting/main/beverage.jpg"
+  }
+]
